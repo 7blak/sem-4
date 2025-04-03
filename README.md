@@ -4,13 +4,13 @@ This repository contains code from various projects and tasks completed during *
 
 ## Projects  
 
-### 🚀 Flight Tracker Project  
+### 🚀 Flight Tracker Project (flight-tracker-project)
 **Course:** Object-Oriented Design  
 **Technologies:** C#  
 
 This is a C# application that manages example flight data, parses it, and displays it on a GUI. It incorporates various **design patterns** and supports **data serialization & deserialization**.  
 
-### 🎨 Programming in Graphical Environments  
+### 🎨 Programming in Graphical Environments (programming-in-graphical-env)
 **Course:** Programming in Graphical Environment  
 **Technologies:** C++, C#, WinAPI, Windows Forms, HTML & CSS, WPF  
 
