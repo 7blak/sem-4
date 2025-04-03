@@ -2,8 +2,6 @@
 
 This repository contains code from various projects and tasks completed during **Semester 4** of my **Computer Science** studies.  
 
-## Projects  
-
 ### 🚀 Flight Tracker Project (flight-tracker-project)
 **Course:** Object-Oriented Design  
 **Technologies:** C#  
